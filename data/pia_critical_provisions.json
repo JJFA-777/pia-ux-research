@@ -1,0 +1,774 @@
+{
+  "host_community_provisions": {
+    "chapter_start_line": 315,
+    "chapter_end_line": 340,
+    "sections": [
+      {
+        "number": "235",
+        "title": "Objectives and regulations.",
+        "line_number": 316,
+        "content": []
+      },
+      {
+        "number": "235",
+        "title": "Incorporation of host communities\" development trusts.",
+        "line_number": 317,
+        "content": []
+      },
+      {
+        "number": "236",
+        "title": "Timeframe for incorporation of host communities development trust.",
+        "line_number": 318,
+        "content": []
+      },
+      {
+        "number": "237",
+        "title": "Transfer of settlor's interest and obligations subject to host communities",
+        "line_number": 319,
+        "content": [
+          "development trust obligation."
+        ]
+      },
+      {
+        "number": "238",
+        "title": "Failure to incorporate host communities development trust.",
+        "line_number": 321,
+        "content": []
+      },
+      {
+        "number": "239",
+        "title": "Objectives of host communities development trust.",
+        "line_number": 322,
+        "content": []
+      },
+      {
+        "number": "240",
+        "title": "Sources of funding for petroleum host communities development trust.",
+        "line_number": 323,
+        "content": []
+      },
+      {
+        "number": "241",
+        "title": "Matters on which the funds may be utilised.",
+        "line_number": 324,
+        "content": []
+      },
+      {
+        "number": "242",
+        "title": "The Board of Trustees, composition and management.",
+        "line_number": 325,
+        "content": []
+      },
+      {
+        "number": "243",
+        "title": "Duties and functions of the Board of Trustees.",
+        "line_number": 326,
+        "content": []
+      },
+      {
+        "number": "244",
+        "title": "Allocation of funds.",
+        "line_number": 327,
+        "content": []
+      },
+      {
+        "number": "245",
+        "title": "Matrix for distribution of trust fund.",
+        "line_number": 328,
+        "content": []
+      },
+      {
+        "number": "246",
+        "title": "Engagement of fund managers.",
+        "line_number": 329,
+        "content": []
+      },
+      {
+        "number": "247",
+        "title": "Management committee, composition and powers.",
+        "line_number": 330,
+        "content": []
+      },
+      {
+        "number": "248",
+        "title": "Duties and functions of the management committee.",
+        "line_number": 331,
+        "content": []
+      },
+      {
+        "number": "249",
+        "title": "Host communities advisory committee and composition.",
+        "line_number": 332,
+        "content": []
+      },
+      {
+        "number": "250",
+        "title": "Duties and functions of the host communities advisory committee.",
+        "line_number": 333,
+        "content": []
+      },
+      {
+        "number": "251",
+        "title": "Host communities needs assessment.",
+        "line_number": 334,
+        "content": []
+      },
+      {
+        "number": "252",
+        "title": "Host communities development plan.",
+        "line_number": 335,
+        "content": []
+      },
+      {
+        "number": "253",
+        "title": "Financial year of the host communities development trust.",
+        "line_number": 336,
+        "content": []
+      },
+      {
+        "number": "254",
+        "title": "Accounts and audit.",
+        "line_number": 337,
+        "content": []
+      },
+      {
+        "number": "255",
+        "title": "Mid-year and annual reports.",
+        "line_number": 338,
+        "content": []
+      },
+      {
+        "number": "256",
+        "title": "Exemption from income tax.",
+        "line_number": 339,
+        "content": []
+      },
+      {
+        "number": "257",
+        "title": "Deduction of payment for petroleum host community development.",
+        "line_number": 340,
+        "content": []
+      }
+    ],
+    "total_sections": 24
+  },
+  "thirty_percent_allocations": [
+    {
+      "match_text": "30% of NNPC Limited's profit oil and profit",
+      "line_number": 721,
+      "pattern": "30[%\\s]*.*(?:profit|fund|allocation|transfer)",
+      "context": [
+        "Line 719: acreages under this Act.",
+        "Line 720: (4) There shall be maintained, for the purpose of this section, a Frontier",
+        "Line 721: Exploration Fund which shall be 30% of NNPC Limited's profit oil and profit",
+        "Line 722: gas as in the production sharing, profit sharing and risk service contracts.",
+        "Line 723: (5) NNPC Limited shall transfer the 30% of profit oil and profit gas",
+        "Line 724: under subsection (4) to the Frontier Exploration Fund escrow account dedicated"
+      ]
+    },
+    {
+      "match_text": "30% of profit oil and profit",
+      "line_number": 723,
+      "pattern": "30[%\\s]*.*(?:profit|fund|allocation|transfer)",
+      "context": [
+        "Line 721: Exploration Fund which shall be 30% of NNPC Limited's profit oil and profit",
+        "Line 722: gas as in the production sharing, profit sharing and risk service contracts.",
+        "Line 723: (5) NNPC Limited shall transfer the 30% of profit oil and profit gas",
+        "Line 724: under subsection (4) to the Frontier Exploration Fund escrow account dedicated",
+        "Line 725: for the development of frontier acreages and utilise the funds to carry out",
+        "Line 726: exploration and development activities in the frontier acreages subject to"
+      ]
+    },
+    {
+      "match_text": "30% for management fee and Frontier Exploration Fund",
+      "line_number": 2517,
+      "pattern": "30[%\\s]*.*(?:profit|fund|allocation|transfer)",
+      "context": [
+        "Line 2515: oil and profit gas payable to the concessionaire, NNPC Limited shall promptly",
+        "Line 2516: remit the proceeds of the sales of the profit oil and profit gas to the Federation",
+        "Line 2517: less its 30% for management fee and Frontier Exploration Fund as specified",
+        "Line 2518: in section 9 (4) of this Act;",
+        "Line 2519: (d) carry out test marketing to ascertain the value of crude oil and report",
+        "Line 2520: to the Commission ;"
+      ]
+    },
+    {
+      "match_text": "30% of the profit",
+      "line_number": 8201,
+      "pattern": "30[%\\s]*.*(?:profit|fund|allocation|transfer)",
+      "context": [
+        "Line 8199: shall be a percentage of the chargeable profit for that period aggregated tax.",
+        "Line 8200: and it shall be―",
+        "Line 8201: (a) 30% of the profit from crude oil for petroleum mining leases",
+        "Line 8202: selected under section 93 (6) (b) and (7) (b) of this Act with respect to",
+        "Line 8203: onshore and shallow water areas; and",
+        "Line 8204: (b) 15% of profit from crude oil for onshore and shallow water and"
+      ]
+    }
+  ],
+  "fiscal_framework": [
+    {
+      "number": "22",
+      "title": "Statement of estimated income and expenditure of the Commission.",
+      "line_number": 49,
+      "keywords_found": [
+        "income"
+      ]
+    },
+    {
+      "number": "24",
+      "title": "Fund of the Commission.",
+      "line_number": 51,
+      "keywords_found": [
+        "fund"
+      ]
+    },
+    {
+      "number": "45",
+      "title": "Statement of estimated income and expenditure of the Authority.",
+      "line_number": 78,
+      "keywords_found": [
+        "income"
+      ]
+    },
+    {
+      "number": "47",
+      "title": "Fund of the Authority.",
+      "line_number": 80,
+      "keywords_found": [
+        "fund"
+      ]
+    },
+    {
+      "number": "52",
+      "title": "The Midstream and Downstream Gas Infrastructure Fund.",
+      "line_number": 85,
+      "keywords_found": [
+        "fund"
+      ]
+    },
+    {
+      "number": "100",
+      "title": "Fees, royalties, rents and other payments to Government.",
+      "line_number": 145,
+      "keywords_found": [
+        "payment",
+        "fee"
+      ]
+    },
+    {
+      "number": "172",
+      "title": "Public service levy.",
+      "line_number": 231,
+      "keywords_found": [
+        "levy"
+      ]
+    },
+    {
+      "number": "233",
+      "title": "Decommissioning and abandonment fund.",
+      "line_number": 311,
+      "keywords_found": [
+        "fund"
+      ]
+    },
+    {
+      "number": "240",
+      "title": "Sources of funding for petroleum host communities development trust.",
+      "line_number": 323,
+      "keywords_found": [
+        "fund"
+      ]
+    },
+    {
+      "number": "241",
+      "title": "Matters on which the funds may be utilised.",
+      "line_number": 324,
+      "keywords_found": [
+        "fund"
+      ]
+    },
+    {
+      "number": "244",
+      "title": "Allocation of funds.",
+      "line_number": 327,
+      "keywords_found": [
+        "fund",
+        "allocation"
+      ]
+    },
+    {
+      "number": "245",
+      "title": "Matrix for distribution of trust fund.",
+      "line_number": 328,
+      "keywords_found": [
+        "fund"
+      ]
+    },
+    {
+      "number": "246",
+      "title": "Engagement of fund managers.",
+      "line_number": 329,
+      "keywords_found": [
+        "fund"
+      ]
+    },
+    {
+      "number": "256",
+      "title": "Exemption from income tax.",
+      "line_number": 339,
+      "keywords_found": [
+        "tax",
+        "income"
+      ]
+    },
+    {
+      "number": "257",
+      "title": "Deduction of payment for petroleum host community development.",
+      "line_number": 340,
+      "keywords_found": [
+        "payment"
+      ]
+    },
+    {
+      "number": "261",
+      "title": "Charge of hydrocarbon tax.",
+      "line_number": 347,
+      "keywords_found": [
+        "tax",
+        "charge"
+      ]
+    },
+    {
+      "number": "262",
+      "title": "Ascertainment of crude oil revenue, adjusted profit, assessable profits",
+      "line_number": 348,
+      "keywords_found": [
+        "revenue",
+        "profit"
+      ]
+    },
+    {
+      "number": "265",
+      "title": "Assessable profits and losses.",
+      "line_number": 352,
+      "keywords_found": [
+        "profit"
+      ]
+    },
+    {
+      "number": "266",
+      "title": "Chargeable profits and allowances.",
+      "line_number": 353,
+      "keywords_found": [
+        "profit",
+        "charge"
+      ]
+    },
+    {
+      "number": "267",
+      "title": "Chargeable tax.",
+      "line_number": 358,
+      "keywords_found": [
+        "tax",
+        "charge"
+      ]
+    },
+    {
+      "number": "268",
+      "title": "Additional chargeable tax payable in certain circumstances.",
+      "line_number": 359,
+      "keywords_found": [
+        "tax",
+        "charge"
+      ]
+    },
+    {
+      "number": "272",
+      "title": "Consolidation of costs and taxes.",
+      "line_number": 365,
+      "keywords_found": [
+        "tax"
+      ]
+    },
+    {
+      "number": "280",
+      "title": "Returns of estimated tax.",
+      "line_number": 375,
+      "keywords_found": [
+        "tax"
+      ]
+    },
+    {
+      "number": "282",
+      "title": "Assessment of tax payable.",
+      "line_number": 377,
+      "keywords_found": [
+        "tax"
+      ]
+    },
+    {
+      "number": "287",
+      "title": "Tax computation.",
+      "line_number": 382,
+      "keywords_found": [
+        "tax"
+      ]
+    },
+    {
+      "number": "288",
+      "title": "Appeals to Tax Appeal Tribunal.",
+      "line_number": 384,
+      "keywords_found": [
+        "tax"
+      ]
+    },
+    {
+      "number": "291",
+      "title": "Time within which payment is to be made.",
+      "line_number": 388,
+      "keywords_found": [
+        "payment"
+      ]
+    },
+    {
+      "number": "292",
+      "title": "Penalty for non-payment of tax and enforcement of payment.",
+      "line_number": 389,
+      "keywords_found": [
+        "tax",
+        "payment"
+      ]
+    },
+    {
+      "number": "293",
+      "title": "Collection of tax after determination of objection or appeal.",
+      "line_number": 390,
+      "keywords_found": [
+        "tax"
+      ]
+    },
+    {
+      "number": "294",
+      "title": "Suit for tax by the service.",
+      "line_number": 391,
+      "keywords_found": [
+        "tax"
+      ]
+    },
+    {
+      "number": "296",
+      "title": "Repayment of tax.",
+      "line_number": 400,
+      "keywords_found": [
+        "tax",
+        "payment"
+      ]
+    },
+    {
+      "number": "301",
+      "title": "Tax to be payable notwithstanding any proceedings for penalties.",
+      "line_number": 406,
+      "keywords_found": [
+        "tax"
+      ]
+    },
+    {
+      "number": "305",
+      "title": "Fiscal stabilisation.",
+      "line_number": 414,
+      "keywords_found": [
+        "fiscal"
+      ]
+    },
+    {
+      "number": "306",
+      "title": "Royalty.",
+      "line_number": 415,
+      "keywords_found": [
+        "royalty"
+      ]
+    },
+    {
+      "number": "13",
+      "title": "(1) Commissioners shall be paid from the funds of the Commission",
+      "line_number": 872,
+      "keywords_found": [
+        "fund"
+      ]
+    },
+    {
+      "number": "24",
+      "title": "(1) The Commission shall maintain a Fund (in this Act referred to",
+      "line_number": 1074,
+      "keywords_found": [
+        "fund"
+      ]
+    },
+    {
+      "number": "47",
+      "title": "(1) The Authority shall maintain a Fund (in this Act referred to",
+      "line_number": 1817,
+      "keywords_found": [
+        "fund"
+      ]
+    },
+    {
+      "number": "61",
+      "title": "(1) Members of the Board of NNPC Limited shall discharge their",
+      "line_number": 2367,
+      "keywords_found": [
+        "charge"
+      ]
+    },
+    {
+      "number": "123",
+      "title": "(1) Tariffs charged by licensees for the use of any facility or",
+      "line_number": 4684,
+      "keywords_found": [
+        "charge"
+      ]
+    },
+    {
+      "number": "155",
+      "title": "(1) The domestic gas aggregator shall be a not-for-profit company",
+      "line_number": 5531,
+      "keywords_found": [
+        "profit"
+      ]
+    },
+    {
+      "number": "246",
+      "title": "(1) The Board of Trustees shall engage a fund manager to invest",
+      "line_number": 7702,
+      "keywords_found": [
+        "fund"
+      ]
+    },
+    {
+      "number": "256",
+      "title": "The funds of the host communities development trust created under",
+      "line_number": 7899,
+      "keywords_found": [
+        "fund"
+      ]
+    },
+    {
+      "number": "257",
+      "title": "(1) Any payment made by the settlor under section 240 (2) of",
+      "line_number": 7901,
+      "keywords_found": [
+        "payment"
+      ]
+    },
+    {
+      "number": "261",
+      "title": "There shall be levied upon the profits of any company engaged in",
+      "line_number": 8000,
+      "keywords_found": [
+        "profit"
+      ]
+    },
+    {
+      "number": "265",
+      "title": "(1) The assessable profits for each company or petroleum mining",
+      "line_number": 8155,
+      "keywords_found": [
+        "profit"
+      ]
+    },
+    {
+      "number": "267",
+      "title": "The chargeable tax for any accounting period of a company Chargeable",
+      "line_number": 8198,
+      "keywords_found": [
+        "tax",
+        "charge"
+      ]
+    },
+    {
+      "number": "276",
+      "title": "Every person answerable under this Act for the payment of",
+      "line_number": 8503,
+      "keywords_found": [
+        "payment"
+      ]
+    },
+    {
+      "number": "284",
+      "title": "(1) Assessments of hydrocarbon tax shall be made in such form",
+      "line_number": 8745,
+      "keywords_found": [
+        "tax"
+      ]
+    },
+    {
+      "number": "288",
+      "title": "Any Company or tax payer, who does not agree with an assessment",
+      "line_number": 8847,
+      "keywords_found": [
+        "tax"
+      ]
+    },
+    {
+      "number": "290",
+      "title": "Collection of hydrocarbon tax shall, in cases where notice of an",
+      "line_number": 8882,
+      "keywords_found": [
+        "tax"
+      ]
+    },
+    {
+      "number": "291",
+      "title": "(1) Subject to section 280 of this Act, hydrocarbon tax for any",
+      "line_number": 8888,
+      "keywords_found": [
+        "tax"
+      ]
+    },
+    {
+      "number": "292",
+      "title": "(1) Where any hydrocarbon tax or any instalment of tax due and",
+      "line_number": 8934,
+      "keywords_found": [
+        "tax"
+      ]
+    },
+    {
+      "number": "293",
+      "title": "(1) Where payment of hydrocarbon tax in whole or in part has",
+      "line_number": 8962,
+      "keywords_found": [
+        "tax",
+        "payment"
+      ]
+    },
+    {
+      "number": "294",
+      "title": "(1) Hydrocarbon tax may be sued for and recovered in a court of",
+      "line_number": 8971,
+      "keywords_found": [
+        "tax"
+      ]
+    },
+    {
+      "number": "295",
+      "title": "(1) Where a person who has paid hydrocarbon tax for an",
+      "line_number": 8978,
+      "keywords_found": [
+        "tax"
+      ]
+    },
+    {
+      "number": "302",
+      "title": "(1) Without prejudice to Companies Income Tax Act and any other",
+      "line_number": 9173,
+      "keywords_found": [
+        "tax",
+        "income"
+      ]
+    },
+    {
+      "number": "304",
+      "title": "(1) Where matters relate to hydrocarbon tax and companies income",
+      "line_number": 9365,
+      "keywords_found": [
+        "tax",
+        "income"
+      ]
+    },
+    {
+      "number": "305",
+      "title": "Fiscal stabilisation clauses contained in any production sharing",
+      "line_number": 9397,
+      "keywords_found": [
+        "fiscal"
+      ]
+    },
+    {
+      "number": "312",
+      "title": "(1) The Commission shall be vested with all assets, funds,",
+      "line_number": 9658,
+      "keywords_found": [
+        "fund"
+      ]
+    },
+    {
+      "number": "313",
+      "title": "(1) The Authority shall be vested with all assets, funds, resources",
+      "line_number": 9686,
+      "keywords_found": [
+        "fund"
+      ]
+    },
+    {
+      "number": "5",
+      "title": "(1) Each IJVC shall be subject to this Act on payment of rents,",
+      "line_number": 10740,
+      "keywords_found": [
+        "payment"
+      ]
+    },
+    {
+      "number": "1",
+      "title": "Commission shall through regulations publish the rates or fees payable",
+      "line_number": 11301,
+      "keywords_found": [
+        "fee"
+      ]
+    },
+    {
+      "number": "9",
+      "title": "(1) The Commission shall receive the royalty in kind or in cash at its",
+      "line_number": 11437,
+      "keywords_found": [
+        "royalty"
+      ]
+    },
+    {
+      "number": "11",
+      "title": "(1) There shall be payable, in addition to the royalty set out in",
+      "line_number": 11498,
+      "keywords_found": [
+        "royalty"
+      ]
+    },
+    {
+      "number": "12",
+      "title": "Penalty for non-payment and outstanding payments of royalties and",
+      "line_number": 11516,
+      "keywords_found": [
+        "payment"
+      ]
+    },
+    {
+      "number": "13",
+      "title": "Where any fee, rent or royalty due under this Act is unpaid within",
+      "line_number": 11535,
+      "keywords_found": [
+        "royalty",
+        "fee"
+      ]
+    }
+  ],
+  "regulatory_entities": {
+    "NNPC Limited": {
+      "full_name": "Nigerian National Petroleum Company Limited",
+      "mentions": [],
+      "establishment_section": null,
+      "key_functions": []
+    },
+    "NURC": {
+      "full_name": "Nigerian Upstream Regulatory Commission",
+      "mentions": [],
+      "establishment_section": null,
+      "key_functions": []
+    },
+    "NMDPRA": {
+      "full_name": "Nigerian Midstream and Downstream Petroleum Regulatory Authority",
+      "mentions": [],
+      "establishment_section": null,
+      "key_functions": []
+    }
+  }
+}

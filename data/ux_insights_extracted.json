@@ -1,0 +1,80 @@
+{
+  "document_insights": {
+    "structural_complexity": {
+      "total_sections": 319,
+      "chapters": 4,
+      "cross_references": "Extensive - over 319 numbered sections creating interconnected framework",
+      "document_length": "11,717 lines",
+      "primary_challenge": "Complex cross-reference architecture may create navigation difficulties"
+    },
+    "stakeholder_entities": {
+      "regulatory_bodies": 3,
+      "document_mentions": {
+        "NURC": 684,
+        "NMDPRA": 678,
+        "NNPC": 135,
+        "Ministry": 121
+      },
+      "ux_implication": "High mention frequency suggests these entities are central to user workflows"
+    },
+    "host_community_framework": {
+      "dedicated_sections": 24,
+      "governance_levels": 3,
+      "funding_allocation": "3% of operating expenditure",
+      "ux_challenge": "Multi-tiered governance may create complexity for community stakeholders"
+    }
+  },
+  "stakeholder_insights": {
+    "primary_stakeholder_categories": 5,
+    "government_regulators": {
+      "entities": [
+        "Minister",
+        "NURC",
+        "NMDPRA",
+        "NNPC Limited"
+      ],
+      "complexity_level": "High - multiple overlapping jurisdictions",
+      "ux_challenge": "Users must navigate between multiple regulatory authorities"
+    },
+    "oil_gas_companies": {
+      "license_types": [
+        "Petroleum Prospecting Licence",
+        "Petroleum Mining Lease"
+      ],
+      "compliance_areas": [
+        "Technical",
+        "Social",
+        "Environmental",
+        "Reporting"
+      ],
+      "ux_challenge": "Complex multi-stage licensing and compliance requirements"
+    },
+    "host_communities": {
+      "trust_structure": "3-tier governance model",
+      "participation_mechanisms": "Multi-level democratic representation",
+      "ux_challenge": "Community members need to understand complex governance structures"
+    },
+    "transparency_mechanisms": {
+      "public_registers": "Required for NURC and NMDPRA",
+      "information_disclosure": "Mandatory publication of non-proprietary information",
+      "ux_opportunity": "Digital platforms could enhance accessibility"
+    }
+  },
+  "international_insights": {
+    "transparency_best_practices": {
+      "norway_equinor": "Comprehensive disclosure, EITI participation, zero corruption tolerance",
+      "brazil_anp": "Online board meetings, public hearings, extensive databases",
+      "ux_benchmark": "High transparency standards require user-friendly digital interfaces"
+    },
+    "governance_models": {
+      "norway": "Sophisticated governance with 10 core principles",
+      "brazil": "Comprehensive regulatory architecture with ANP",
+      "ux_lesson": "Clear governance structures support better user understanding"
+    },
+    "community_engagement": {
+      "norway_local_content": "Systematic training, technology transfer, long-term capacity building",
+      "ux_insight": "Successful community engagement requires accessible training and information"
+    }
+  },
+  "analysis_timestamp": "2025-10-01 20:13:03"
+}
